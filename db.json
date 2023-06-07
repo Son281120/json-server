@@ -53,7 +53,7 @@
                 "white",
                 "green"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "6.990.000₫",
             "oldPrice": "8.450.000₫",
             "sizes": [
@@ -92,7 +92,7 @@
                 "white",
                 "blue"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "3.000.000₫",
             "oldPrice": "3.990.000₫",
             "sizes": [
@@ -143,7 +143,7 @@
                 "white",
                 "red"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "3.300.000₫",
             "oldPrice": "5.555.000₫",
             "sizes": [
@@ -230,7 +230,7 @@
                 "white",
                 "red"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "5.000.000₫",
             "oldPrice": "6.450.000₫",
             "sizes": [
@@ -263,12 +263,12 @@
             ]
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Nike Air Max 97 OG – Silver Bullet (2022)",
             "colors": [
                 "Silver"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "4.500.000₫",
             "oldPrice": "5.950.000₫",
             "sizes": [
@@ -319,7 +319,7 @@
                 "white",
                 "black"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "2.600.000₫",
             "oldPrice": "3.100.000₫",
             "sizes": [
@@ -405,7 +405,7 @@
                 "white",
                 "black"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "2.900.000₫",
             "oldPrice": "3.450.000₫",
             "sizes": [
@@ -445,7 +445,7 @@
                 "red",
                 "blue"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "6.800.000₫",
             "oldPrice": "7.950.000₫",
             "sizes": [
@@ -496,7 +496,7 @@
                 "white",
                 "orange"
             ],
-            "category_id": "1",
+            "category_id": 1,
             "newPrice": "4.500.000₫",
             "oldPrice": "5.350.000₫",
             "sizes": [
