@@ -1,94 +1,535 @@
 {
     "products": [
         {
-            "id": 81,
-            "title": "Round Silver Frame Sun Glasses",
-            "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-            "price": 19,
-            "discountPercentage": 10.1,
-            "rating": 4.94,
-            "stock": 78,
-            "brand": "Designer Sun Glasses",
-            "category": "sunglasses",
-            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/81/1.jpg",
-                "https://i.dummyjson.com/data/products/81/2.jpg",
-                "https://i.dummyjson.com/data/products/81/3.jpg",
-                "https://i.dummyjson.com/data/products/81/4.webp",
-                "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
+            "id": 1,
+            "name": "Nike Air Force 1 – Pastel Reveal",
+            "colors": [
+                "white",
+                "green",
+                "orange",
+                "purple",
+                "pink"
+            ],
+            "category_id": 1,
+            "newPrice": "3.500.000₫",
+            "oldPrice": "3.850.000₫",
+            "sizes": [
+                {
+                    "size": "37",
+                    "quantity": 10
+                },
+                {
+                    "size": "38",
+                    "quantity": 5
+                },
+                {
+                    "size": "39",
+                    "quantity": 0
+                },
+                {
+                    "size": "40",
+                    "quantity": 10
+                },
+                {
+                    "size": "41",
+                    "quantity": 0
+                },
+                {
+                    "size": "42",
+                    "quantity": 20
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/08/nike-air-force-1-low-pastel-reveal-DJ6901-600-3-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/08/nike-air-force-1-low-pastel-reveal-DJ6901-600-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/08/nike-air-force-1-low-pastel-reveal-DJ6901-600-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/08/nike-air-force-1-low-pastel-reveal-DJ6901-600-2-600x600.jpg"
             ]
         },
         {
-            "id": 82,
-            "title": "Kabir Singh Square Sunglass",
-            "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
-            "price": 50,
-            "discountPercentage": 15.6,
-            "rating": 4.62,
-            "stock": 78,
-            "brand": "Designer Sun Glasses",
-            "category": "sunglasses",
-            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/82/1.jpg",
-                "https://i.dummyjson.com/data/products/82/2.webp",
-                "https://i.dummyjson.com/data/products/82/3.jpg",
-                "https://i.dummyjson.com/data/products/82/4.jpg",
-                "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
+            "id": 2,
+            "name": "Jordan 1 Retro High CO JP Midnight Navy (575441-141/DC1788-100)",
+            "colors": [
+                "white",
+                "green"
+            ],
+            "category_id": "1",
+            "newPrice": "6.990.000₫",
+            "oldPrice": "8.450.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "40",
+                    "quantity": 0
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "44",
+                    "quantity": 25
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/02/nike-court-vision-low-sail-pro-green-opti-yellow-fd0320-133-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/02/nike-court-vision-low-sail-pro-green-opti-yellow-fd0320-133-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/02/nike-court-vision-low-sail-pro-green-opti-yellow-fd0320-133-5-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/02/nike-court-vision-low-sail-pro-green-opti-yellow-fd0320-133-2-600x600.jpg"
             ]
         },
         {
-            "id": 83,
-            "title": "Wiley X Night Vision Yellow Glasses",
-            "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
-            "price": 30,
-            "discountPercentage": 6.33,
-            "rating": 4.97,
-            "stock": 115,
-            "brand": "mastar watch",
-            "category": "sunglasses",
-            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/83/1.jpg",
-                "https://i.dummyjson.com/data/products/83/2.jpg",
-                "https://i.dummyjson.com/data/products/83/3.jpg",
-                "https://i.dummyjson.com/data/products/83/4.jpg",
-                "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
+            "id": 3,
+            "name": "Nike Air Force 1 Low – Sisterhood White Metallic Silver",
+            "colors": [
+                "white",
+                "blue"
+            ],
+            "category_id": "1",
+            "newPrice": "3.000.000₫",
+            "oldPrice": "3.990.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 1
+                },
+                {
+                    "size": "39",
+                    "quantity": 25
+                },
+                {
+                    "size": "40",
+                    "quantity": 0
+                },
+                {
+                    "size": "41",
+                    "quantity": 0
+                },
+                {
+                    "size": "42",
+                    "quantity": 0
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low--sisterhood.-white-metallic-silver-ct1990-100-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low--sisterhood.-white-metallic-silver-ct1990-100-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low--sisterhood.-white-metallic-silver-ct1990-100-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low--sisterhood.-white-metallic-silver-ct1990-100-5-600x600.jpg"
             ]
         },
         {
-            "id": 84,
-            "title": "Square Sunglasses",
-            "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
-            "price": 28,
-            "discountPercentage": 13.89,
-            "rating": 4.64,
-            "stock": 64,
-            "brand": "mastar watch",
-            "category": "sunglasses",
-            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/84/1.jpg",
-                "https://i.dummyjson.com/data/products/84/2.jpg",
-                "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
+            "id": 4,
+            "name": "Nike Air Force 1 Low – Plaid Red",
+            "colors": [
+                "white",
+                "red"
+            ],
+            "category_id": "1",
+            "newPrice": "3.300.000₫",
+            "oldPrice": "5.555.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 1
+                },
+                {
+                    "size": "39",
+                    "quantity": 2
+                },
+                {
+                    "size": "40",
+                    "quantity": 1
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low-plaid-red-dv0789-100-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low-plaid-red-dv0789-100-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low-plaid-red-dv0789-100-3-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low-plaid-red-dv0789-100-4-600x600.jpg"
             ]
         },
         {
-            "id": 85,
-            "title": "LouisWill Men Sunglasses",
-            "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
-            "price": 50,
-            "discountPercentage": 11.27,
-            "rating": 4.98,
-            "stock": 92,
-            "brand": "LouisWill",
-            "category": "sunglasses",
-            "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/85/1.jpg",
-                "https://i.dummyjson.com/data/products/85/2.jpg",
-                "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
+            "id": 5,
+            "name": "Nike Air Force 1 Low – Pitch Green",
+            "colors": [
+                "white",
+                "black",
+                "green"
+            ],
+            "category_id": 1,
+            "newPrice": "3.050.000₫",
+            "oldPrice": "4.350.000₫",
+            "sizes": [
+                {
+                    "size": "37",
+                    "quantity": 10
+                },
+                {
+                    "size": "38",
+                    "quantity": 5
+                },
+                {
+                    "size": "39",
+                    "quantity": 0
+                },
+                {
+                    "size": "40",
+                    "quantity": 10
+                },
+                {
+                    "size": "41",
+                    "quantity": 0
+                },
+                {
+                    "size": "42",
+                    "quantity": 20
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low-pitch-green-dv0791-100-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low-pitch-green-dv0791-100-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low-pitch-green-dv0791-100-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-force-1-low-pitch-green-dv0791-100-3-600x600.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Nike Air Max 1 “86 OG” Big Bubble – Sport Red",
+            "colors": [
+                "white",
+                "red"
+            ],
+            "category_id": "1",
+            "newPrice": "5.000.000₫",
+            "oldPrice": "6.450.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "40",
+                    "quantity": 0
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "44",
+                    "quantity": 25
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-max-1-86-og-big-bubble-sport-red-dq3989-100-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-max-1-86-og-big-bubble-sport-red-dq3989-100-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-max-1-86-og-big-bubble-sport-red-dq3989-100-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/nike-air-max-1-86-og-big-bubble-sport-red-dq3989-100-3-600x600.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Nike Air Max 97 OG – Silver Bullet (2022)",
+            "colors": [
+                "Silver"
+            ],
+            "category_id": "1",
+            "newPrice": "4.500.000₫",
+            "oldPrice": "5.950.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 1
+                },
+                {
+                    "size": "39",
+                    "quantity": 25
+                },
+                {
+                    "size": "40",
+                    "quantity": 0
+                },
+                {
+                    "size": "41",
+                    "quantity": 0
+                },
+                {
+                    "size": "42",
+                    "quantity": 0
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/03/nike-air-max-97-og-silver-bullet-2022-dm0028-002-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/03/nike-air-max-97-og-silver-bullet-2022-dm0028-002-3-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/03/nike-air-max-97-og-silver-bullet-2022-dm0028-002-4-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/03/nike-air-max-97-og-silver-bullet-2022-dm0028-002-5-600x600.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Nike Blazer Low Jumbo – White/Black",
+            "colors": [
+                "white",
+                "black"
+            ],
+            "category_id": "1",
+            "newPrice": "2.600.000₫",
+            "oldPrice": "3.100.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 1
+                },
+                {
+                    "size": "39",
+                    "quantity": 2
+                },
+                {
+                    "size": "40",
+                    "quantity": 1
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/03/nike-blazer-low-jumbo-white-black-dn2158-101-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/03/nike-blazer-low-jumbo-white-black-dn2158-101-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/03/nike-blazer-low-jumbo-white-black-dn2158-101-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/03/nike-blazer-low-jumbo-white-black-dn2158-101-3-600x600.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Nike Waffle One – Summit White",
+            "colors": [
+                "white",
+                "black"
+            ],
+            "category_id": 1,
+            "newPrice": "2.200.000₫",
+            "oldPrice": "2.900.000₫",
+            "sizes": [
+                {
+                    "size": "37",
+                    "quantity": 10
+                },
+                {
+                    "size": "38",
+                    "quantity": 5
+                },
+                {
+                    "size": "39",
+                    "quantity": 0
+                },
+                {
+                    "size": "40",
+                    "quantity": 10
+                },
+                {
+                    "size": "41",
+                    "quantity": 0
+                },
+                {
+                    "size": "42",
+                    "quantity": 20
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/11/nike-waffle-one-summit-white-da7995-100-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/11/nike-waffle-one-summit-white-da7995-100-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/11/nike-waffle-one-summit-white-da7995-100-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/11/nike-waffle-one-summit-white-da7995-100-6-600x600.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Nike Blazer Mid Vintage – White/Black",
+            "colors": [
+                "white",
+                "black"
+            ],
+            "category_id": "1",
+            "newPrice": "2.900.000₫",
+            "oldPrice": "3.450.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "40",
+                    "quantity": 0
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "44",
+                    "quantity": 25
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/07/nike-blazer-mid-vintage-white-black-BQ6806-100-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/07/nike-blazer-mid-vintage-white-black-BQ6806-100-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/07/nike-blazer-mid-vintage-white-black-BQ6806-100-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/07/nike-blazer-mid-vintage-white-black-BQ6806-100-3-600x600.jpg"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Nike x Sacai Zoom Cortez SP – White Red",
+            "colors": [
+                "white",
+                "red",
+                "blue"
+            ],
+            "category_id": "1",
+            "newPrice": "6.800.000₫",
+            "oldPrice": "7.950.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 1
+                },
+                {
+                    "size": "39",
+                    "quantity": 25
+                },
+                {
+                    "size": "40",
+                    "quantity": 0
+                },
+                {
+                    "size": "41",
+                    "quantity": 0
+                },
+                {
+                    "size": "42",
+                    "quantity": 0
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-x-sacai-zoom-cortez-sp-white-red-dq0581-100-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-x-sacai-zoom-cortez-sp-white-red-dq0581-100-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-x-sacai-zoom-cortez-sp-white-red-dq0581-100-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-x-sacai-zoom-cortez-sp-white-red-dq0581-100-3-600x600.jpg"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Nike Dunk Low – Sun Club Burnt Sunrise",
+            "colors": [
+                "white",
+                "orange"
+            ],
+            "category_id": "1",
+            "newPrice": "4.500.000₫",
+            "oldPrice": "5.350.000₫",
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 1
+                },
+                {
+                    "size": "39",
+                    "quantity": 2
+                },
+                {
+                    "size": "40",
+                    "quantity": 1
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-dunk-low-sun-club-burnt-sunrise-dr5475-100-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-dunk-low-sun-club-burnt-sunrise-dr5475-100-1-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-dunk-low-sun-club-burnt-sunrise-dr5475-100-2-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-dunk-low-sun-club-burnt-sunrise-dr5475-100-3-600x600.jpg"
             ]
         }
     ]
