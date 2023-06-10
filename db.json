@@ -11,8 +11,9 @@
                 "pink"
             ],
             "category_id": 1,
-            "newPrice": "3.500.000₫",
-            "oldPrice": "3.850.000₫",
+            "newPrice": "3500000",
+            "oldPrice": "3850000",
+            "sold": 100,
             "sizes": [
                 {
                     "size": "37",
@@ -54,8 +55,9 @@
                 "green"
             ],
             "category_id": 1,
-            "newPrice": "6.990.000₫",
-            "oldPrice": "8.450.000₫",
+            "newPrice": "6990000",
+            "oldPrice": "8450000",
+            "sold": 20,
             "sizes": [
                 {
                     "size": "36.5",
@@ -93,8 +95,9 @@
                 "blue"
             ],
             "category_id": 1,
-            "newPrice": "3.000.000₫",
-            "oldPrice": "3.990.000₫",
+            "newPrice": "3000000",
+            "oldPrice": "3990000",
+            "sold": 10,
             "sizes": [
                 {
                     "size": "36.5",
@@ -144,8 +147,9 @@
                 "red"
             ],
             "category_id": 1,
-            "newPrice": "3.300.000₫",
-            "oldPrice": "5.555.000₫",
+            "newPrice": "3300000",
+            "oldPrice": "5555000",
+            "sold": 72,
             "sizes": [
                 {
                     "size": "36.5",
@@ -188,8 +192,9 @@
                 "green"
             ],
             "category_id": 1,
-            "newPrice": "3.050.000₫",
-            "oldPrice": "4.350.000₫",
+            "newPrice": "3050000",
+            "oldPrice": "4350000",
+            "sold": 12,
             "sizes": [
                 {
                     "size": "37",
@@ -231,8 +236,9 @@
                 "red"
             ],
             "category_id": 1,
-            "newPrice": "5.000.000₫",
-            "oldPrice": "6.450.000₫",
+            "newPrice": "5000000",
+            "oldPrice": "6450000",
+            "sold": 18,
             "sizes": [
                 {
                     "size": "36.5",
@@ -269,8 +275,9 @@
                 "Silver"
             ],
             "category_id": 1,
-            "newPrice": "4.500.000₫",
-            "oldPrice": "5.950.000₫",
+            "newPrice": "4500000",
+            "oldPrice": "5950000",
+            "sold": 16,
             "sizes": [
                 {
                     "size": "36.5",
@@ -320,8 +327,9 @@
                 "black"
             ],
             "category_id": 1,
-            "newPrice": "2.600.000₫",
-            "oldPrice": "3.100.000₫",
+            "newPrice": "2600000",
+            "oldPrice": "3100000",
+            "sold": 25,
             "sizes": [
                 {
                     "size": "36.5",
@@ -363,8 +371,9 @@
                 "black"
             ],
             "category_id": 1,
-            "newPrice": "2.200.000₫",
-            "oldPrice": "2.900.000₫",
+            "newPrice": "2200000",
+            "oldPrice": "2900000",
+            "sold": 43,
             "sizes": [
                 {
                     "size": "37",
@@ -406,8 +415,9 @@
                 "black"
             ],
             "category_id": 1,
-            "newPrice": "2.900.000₫",
-            "oldPrice": "3.450.000₫",
+            "newPrice": "2900000",
+            "oldPrice": "3450000",
+            "sold": 32,
             "sizes": [
                 {
                     "size": "36.5",
@@ -446,8 +456,9 @@
                 "blue"
             ],
             "category_id": 1,
-            "newPrice": "6.800.000₫",
-            "oldPrice": "7.950.000₫",
+            "newPrice": "6800000",
+            "oldPrice": "7950000",
+            "sold": 43,
             "sizes": [
                 {
                     "size": "36.5",
@@ -497,8 +508,9 @@
                 "orange"
             ],
             "category_id": 1,
-            "newPrice": "4.500.000₫",
-            "oldPrice": "5.350.000₫",
+            "newPrice": "4500000",
+            "oldPrice": "5350000",
+            "sold": 8,
             "sizes": [
                 {
                     "size": "36.5",
