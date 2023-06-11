@@ -543,6 +543,548 @@
                 "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-dunk-low-sun-club-burnt-sunrise-dr5475-100-2-600x600.jpg",
                 "https://sneakerholicvietnam.vn/wp-content/uploads/2023/01/nike-dunk-low-sun-club-burnt-sunrise-dr5475-100-3-600x600.jpg"
             ]
+        },
+        {
+            "id": 13,
+            "name": "Jordan 1 High Zoom Air CMFT Canyon Rust (CT0979-602)",
+            "colors": [
+                "red",
+                "pink"
+            ],
+            "category_id": 2,
+            "newPrice": "3490000",
+            "oldPrice": "7950000",
+            "sold": 236,
+            "sizes": [
+                {
+                    "size": "37",
+                    "quantity": 10
+                },
+                {
+                    "size": "38",
+                    "quantity": 5
+                },
+                {
+                    "size": "39",
+                    "quantity": 12
+                },
+                {
+                    "size": "40",
+                    "quantity": 10
+                },
+                {
+                    "size": "41",
+                    "quantity": 56
+                },
+                {
+                    "size": "42",
+                    "quantity": 20
+                }
+            ],
+            "img": [
+                "https://bizweb.dktcdn.net/thumb/1024x1024/100/347/064/products/air-jordan-1-high-zoom-cmft-canyon-rust-sail-purple-smoke-ct0979-602-01.jpg?v=1616349328013",
+                "https://bizweb.dktcdn.net/100/347/064/products/2554-air-jordan-1-zoom-comfort-canyon-rust-ct0978-602-release-date-1.jpg?v=1616349328013",
+                "https://bizweb.dktcdn.net/100/347/064/products/air-jordan-1-zoom-comfort-canyon-rust-ct0979-602-release-date-7.jpg?v=1616349328013",
+                "https://bizweb.dktcdn.net/100/347/064/products/nike-1-rust-ct0979-602-womens-aj-1-zoom-eb0adc53-8357-45b9-b138-1bf9eca8c65f.jpg?v=1616349328013"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Air Jordan 1 Retro High OG – Lucky Green (2023)",
+            "colors": [
+                "white",
+                "green",
+                "black"
+            ],
+            "category_id": 2,
+            "newPrice": "5000000",
+            "oldPrice": "7950000",
+            "sold": 123,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 2
+                },
+                {
+                    "size": "38",
+                    "quantity": 5
+                },
+                {
+                    "size": "39",
+                    "quantity": 12
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 10
+                },
+                {
+                    "size": "41",
+                    "quantity": 56
+                },
+                {
+                    "size": "43",
+                    "quantity": 20
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/air-jordan-1-retro-high-og-lucky-green-2023-dz5485-031.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/air-jordan-1-retro-high-og-lucky-green-2023-dz5485-031-4-600x600.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/air-jordan-1-retro-high-og-lucky-green-2023-dz5485-031-1.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/air-jordan-1-retro-high-og-lucky-green-2023-dz5485-031-5.jpg"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Puma RS-Z Reinvention – Nimbus Cloud",
+            "colors": [
+                "white",
+                "black"
+            ],
+            "category_id": 4,
+            "newPrice": "2000000",
+            "oldPrice": "3450000",
+            "sold": 45,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 2
+                },
+                {
+                    "size": "37",
+                    "quantity": 4
+                },
+                {
+                    "size": "40",
+                    "quantity": 0
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "41",
+                    "quantity": 25
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/puma-rs-z-reinvention--nimbus-cloud-388522-01.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/puma-rs-z-reinvention--nimbus-cloud-388522-01-1.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/puma-rs-z-reinvention--nimbus-cloud-388522-01-2.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/puma-rs-z-reinvention--nimbus-cloud-388522-01-3.jpg"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Puma Carina – Chalk Pink",
+            "colors": [
+                "white",
+                "black"
+            ],
+            "category_id": 4,
+            "newPrice": "1300000",
+            "oldPrice": "1850000",
+            "sold": 30,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 2
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 6
+                },
+                {
+                    "size": "40",
+                    "quantity": 1
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "41",
+                    "quantity": 25
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/05/puma-carina-chalk-pink-370677-33.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/05/puma-carina-chalk-pink-370677-33-1.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/05/puma-carina-chalk-pink-370677-33-2.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/05/puma-carina-chalk-pink-370677-33-3.jpg"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Adidas adiFOM Q – White Grey",
+            "colors": [
+                "white"
+            ],
+            "category_id": 3,
+            "newPrice": "2700000",
+            "oldPrice": "3450000",
+            "sold": 34,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 2
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 6
+                },
+                {
+                    "size": "39",
+                    "quantity": 12
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "41",
+                    "quantity": 25
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/06/adidas-adifom-q-white-grey-ie7447.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/06/adidas-adifom-q-white-grey-ie7447-3.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/06/adidas-adifom-q-white-grey-ie7447-1.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/06/adidas-adifom-q-white-grey-ie7447-2.jpg"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Puma Cali Star Mix – Peach Cobbler",
+            "colors": [
+                "white",
+                "orange"
+            ],
+            "category_id": 4,
+            "newPrice": "1600000",
+            "oldPrice": "2300000",
+            "sold": 23,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 2
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 6
+                },
+                {
+                    "size": "39",
+                    "quantity": 0
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "41",
+                    "quantity": 25
+                },
+                {
+                    "size": "41.5",
+                    "quantity": 23
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/12/puma-cali-star-mix-peach-cobbler-380220-01.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/12/puma-cali-star-mix-peach-cobbler-380220-01-1.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/12/puma-cali-star-mix-peach-cobbler-380220-01-2.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/12/puma-cali-star-mix-peach-cobbler-380220-01-3.jpg"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Puma RS-X3 – Millenium White Black Limestone",
+            "colors": [
+                "white",
+                "black"
+            ],
+            "category_id": 4,
+            "newPrice": "1500000",
+            "oldPrice": "2350000",
+            "sold": 20,
+            "sizes": [
+                {
+                    "size": "37",
+                    "quantity": 20
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 6
+                },
+                {
+                    "size": "39.5",
+                    "quantity": 16
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "43",
+                    "quantity": 25
+                },
+                {
+                    "size": "43.5",
+                    "quantity": 23
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/03/puma-rs-x3-millenium-white-black-limestone-373236-07.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/03/puma-rs-x3-millenium-white-black-limestone-373236-07-1-300x300.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/03/puma-rs-x3-millenium-white-black-limestone-373236-07-2-300x300.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/03/puma-rs-x3-millenium-white-black-limestone-373236-07-3-300x300.jpg"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Puma Army Trainer Mule – White Gum",
+            "colors": [
+                "white"
+            ],
+            "category_id": 3,
+            "newPrice": "1500000",
+            "oldPrice": "2050000",
+            "sold": 40,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 2
+                },
+                {
+                    "size": "37",
+                    "quantity": 20
+                },
+                {
+                    "size": "39",
+                    "quantity": 0
+                },
+                {
+                    "size": "40",
+                    "quantity": 23
+                },
+                {
+                    "size": "41",
+                    "quantity": 8
+                },
+                {
+                    "size": "44",
+                    "quantity": 23
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/12/puma-army-trainer-mule-white-gum-387824-01.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/12/puma-army-trainer-mule-white-gum-387824-01-1-400x400.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/12/puma-army-trainer-mule-white-gum-387824-01-2-400x400.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2022/12/puma-army-trainer-mule-white-gum-387824-01-3-400x400.jpg"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Air Jordan 1 Low – Panda",
+            "colors": [
+                "white",
+                "black"
+            ],
+            "category_id": 2,
+            "newPrice": "4250000",
+            "oldPrice": "5050000",
+            "sold": 40,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 2
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 20
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "40",
+                    "quantity": 0
+                },
+                {
+                    "size": "41",
+                    "quantity": 8
+                },
+                {
+                    "size": "42",
+                    "quantity": 23
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/air-jordan-1-low-panda-2-dc0774-101.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/air-jordan-1-low-panda-2-dc0774-101-1.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/air-jordan-1-low-panda-2-dc0774-101-2.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/air-jordan-1-low-panda-2-dc0774-101-2.jpg"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Air Jordan 1 Low – Smoke Grey V3",
+            "colors": [
+                "white",
+                "black",
+                "grey"
+            ],
+            "category_id": 2,
+            "newPrice": "4250000",
+            "oldPrice": "6250000",
+            "sold": 40,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 0
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 23
+                },
+                {
+                    "size": "41",
+                    "quantity": 18
+                },
+                {
+                    "size": "43.5",
+                    "quantity": 2
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/07/air-jordan-1-low-black-medium-smoke-grey-v3-553558-040.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/07/air-jordan-1-low-black-medium-smoke-grey-v3-553558-040-1.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/07/air-jordan-1-low-black-medium-smoke-grey-v3-553558-040-2.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/04/air-jordan-1-low-black-medium-smoke-grey-v3-553558-040-11.jpg"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Converse Chuck Taylor All-Star Platform – Gold Chain Thriftshop Yellow",
+            "colors": [
+                "white"
+            ],
+            "category_id": 5,
+            "newPrice": "2250000",
+            "oldPrice": "3250000",
+            "sold": 40,
+            "sizes": [
+                {
+                    "size": "36",
+                    "quantity": 12
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "40.5",
+                    "quantity": 23
+                },
+                {
+                    "size": "42",
+                    "quantity": 18
+                },
+                {
+                    "size": "43.5",
+                    "quantity": 2
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/converse-chuck-taylor-all-star-platform-gold-chain-thriftshop-yellow-a04453c.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/converse-chuck-taylor-all-star-platform-gold-chain-thriftshop-yellow-a04453c-2.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/converse-chuck-taylor-all-star-platform-gold-chain-thriftshop-yellow-a04453c-2.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2023/05/converse-chuck-taylor-all-star-platform-gold-chain-thriftshop-yellow-a04453c-3.jpg"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Converse x Comme des Garcons CDG PLAY High – White",
+            "colors": [
+                "white",
+                "red"
+            ],
+            "category_id": 5,
+            "newPrice": "4000000",
+            "oldPrice": "4250000",
+            "sold": 26,
+            "sizes": [
+                {
+                    "size": "36.5",
+                    "quantity": 23
+                },
+                {
+                    "size": "37.5",
+                    "quantity": 0
+                },
+                {
+                    "size": "38.5",
+                    "quantity": 2
+                },
+                {
+                    "size": "41.5",
+                    "quantity": 5
+                },
+                {
+                    "size": "42",
+                    "quantity": 18
+                },
+                {
+                    "size": "43.5",
+                    "quantity": 2
+                }
+            ],
+            "img": [
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/06/converse-x-comme-des-garcons-play-high-white-150205C.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/06/converse-x-comme-des-garcons-play-high-white-150205C-1.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/06/converse-x-comme-des-garcons-play-high-white-150205C-2.jpg",
+                "https://sneakerholicvietnam.vn/wp-content/uploads/2021/01/converse_cdg_high_cut_white_1560080138_a1f9964f3.jpeg"
+            ]
+        }
+    ],
+    "category" : [
+        {
+            "id": 1,
+            "name": "Nike",
+            "img": "https://bizweb.dktcdn.net/thumb/large/100/347/064/themes/717243/assets/index_feature_collections___2_image.jpg?1677949317964"
+        },
+        {
+            "id": 2,
+            "name": "Jordan",
+            "img": "https://bizweb.dktcdn.net/thumb/large/100/347/064/themes/717243/assets/index_feature_collections___3_image.jpg?1677949317964"    
+        },
+        {
+            "id": 3,
+            "name": "Adidas",
+            "img": "https://bizweb.dktcdn.net/thumb/large/100/347/064/themes/717243/assets/index_feature_collections___1_image.jpg?1677949317964" 
+        },
+        {
+            "id": 4,
+            "name": "Puma",
+            "img": "https://bizweb.dktcdn.net/thumb/large/100/347/064/themes/717243/assets/index_feature_collections___4_image.jpg?1677949317964"
+        },
+        {
+            "id": 5,
+            "name": "Converse",
+            "img": "https://drake.vn/image/cache/catalog/logo/converse-114x88-114x88.jpg"
         }
     ]
 }
